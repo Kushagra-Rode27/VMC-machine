@@ -1,0 +1,8 @@
+program go23D ::
+
+    var A, B, C, D : int;
+    var E,F : int;
+{
+    F := 2;
+
+}

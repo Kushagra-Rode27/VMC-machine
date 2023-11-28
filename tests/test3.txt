@@ -1,0 +1,9 @@
+program bESt ::
+
+    var A : bool;
+    var E : int;
+{
+    A := ff < (0 < 1);
+    E := (4 + 5) / 2;
+    E := E + ~1;
+}

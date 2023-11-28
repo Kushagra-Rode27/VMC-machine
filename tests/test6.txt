@@ -1,0 +1,19 @@
+program testProg ::
+
+    var A, B, C, X : int;
+    var E , F : bool;
+
+{
+    E := tt;
+    F := ff;
+
+    if E || F then {
+        F := F < E;
+        A := 3;
+    }
+    else{
+        E := tt < E;
+    }
+    endif;
+    
+}

@@ -1,0 +1,9 @@
+program testProg ::
+
+    var A, B, C, X : int;
+    var E , F : bool;
+
+{
+    E := tt > ff;
+    F := E || F;
+}
